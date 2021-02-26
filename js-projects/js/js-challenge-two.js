@@ -7,12 +7,8 @@ for (let i = 1; i <= 101; i++) {
 
             //Excercise Two :
 
-            function showMessage() {
-                let message = 'Hello, ' + firstName + lastName;
-                alert(message);
-              }
-            let firstName = 'Jeffrey';
-            let lastName = 'Rios';
-            alert('Hello', firstName + lastName);
-            
-  
+            const welcome = (firstName, lastName) => {
+              alert(firstName + '' + lastName + ', welcome!');
+            }
+
+            welcome('Jeffrey',  'Rios');
