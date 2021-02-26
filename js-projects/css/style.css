@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(252, 252, 252);
+}
+
+header{
+    
+    color: white;
+    font-family: monospace;
+    font-size: 35px;
+    padding: 1%;
+}
+
+.btn { font-family:cursive;
+    padding: 5px;
+    font-weight: lighter;
+    border: groove;
+    border-color: rgb(39, 31, 31);
+    border-width: 3px;
+    
+
+}
+
+h1{
+    font-family:monospace;
+    font-size: large;
+    font-weight: lighter;
+    color: ivory;
+    padding: 5%;
+    margin: 0 auto;
+    height: 0 auto;
+    width: 0 auto;
+}
+body{
+    position: relative;
+    background-image: url(/js-projects/images/js-bg.png);
+    background-size: contain;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    border-style: groove;
+    border: rgb(47, 47, 9);
+    border-radius: 22%;
+}

@@ -164,3 +164,4 @@ const sumNumbers = (arg1, arg2) => {
 };
 
 sumNumbers(100, 300);
+
