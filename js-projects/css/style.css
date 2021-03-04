@@ -17,7 +17,7 @@ section{
     background-color: white;
 }
 
-heading{
+header{
     text-transform: uppercase;
     font-size: 25px;
     letter-spacing: 3px;
@@ -102,4 +102,13 @@ heading{
         margin: 2rem;
     }
 
+}
+input{
+    color: rgb(161, 161, 209);
+    color: rgb(240, 239, 239);
+    background:rgb(95, 93, 90);
+    padding: 3px 5px;
+    font-size: 12px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
 }
